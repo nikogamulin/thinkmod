@@ -6,6 +6,9 @@ docs/
 # Personal notes (raw lectures, drafts, planning docs)
 personal_notes/
 
+# Virtual environment
+.venv/
+
 # Python
 __pycache__/
 *.pyc

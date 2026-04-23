@@ -1,0 +1,17 @@
+# Statistical Rethinking 2026 — Setup Instructions
+#
+# Prerequisites: Python 3.10+
+#
+# 1. Create virtual environment and install dependencies:
+#
+#    python3 -m venv .venv
+#    source .venv/bin/activate
+#    pip install -r requirements.txt
+#
+# 2. Run notebooks:
+#
+#    jupyter notebook notebooks/
+#
+# 3. Or execute all notebooks from the command line:
+#
+#    jupyter nbconvert --to notebook --execute notebooks/*.ipynb
