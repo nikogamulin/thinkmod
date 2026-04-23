@@ -1,0 +1,29 @@
+# Project-specific
+CLAUDE.md
+.claude/
+docs/
+
+# Personal notes (raw lectures, drafts, planning docs)
+personal_notes/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data artifacts
+*.csv.lock
+.~lock.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
